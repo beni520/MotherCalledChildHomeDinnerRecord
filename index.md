@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的孩子回家吃饭记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/MotherCalledChildHomeDinnerRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在我们日常生活中，孩子长大工作后，就很少时间回家吃饭陪伴家长老人。这款应用可以帮助家人孩子记录每月回家陪伴家人的次数，孩子的饮食喜好，联系电话和吃饭时间等。孩子们常回家看看，家长们可以根据每个孩子喜爱的菜式，做很多美味的晚餐。一家人团聚在一起吃饭，吃着一桌家人精心准备的晚餐，一家人其乐融融，是一件多么幸福和值得去做的事情。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MotherCalledChildHomeDinnerRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
